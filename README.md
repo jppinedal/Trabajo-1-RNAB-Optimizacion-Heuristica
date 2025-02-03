@@ -2,10 +2,12 @@
 
 ![logoUN](https://github.com/user-attachments/assets/6a75b35f-c2f7-425e-8a39-6d1384be3244)
 
+Semestre 2024-2S
+
 # Optimización Heurística
 
-## Descripción del Proyecto
-Este proyecto explora y compara diferentes métodos de optimización, tanto tradicionales como heurísticos, abordando dos tipos de problemas principales:
+## Descripción
+En este proyecto buscamos comparar diferentes métodos de optimización, tanto tradicionales como heurísticos, se abordan dos tipos de problemas principales:
 
 ### Objetivos
 1. Analizar el rendimiento de diferentes métodos de optimización
@@ -54,11 +56,7 @@ Solución al problema del vendedor viajero (TSP) para las 32 capitales de Méxic
 
 
 ## Integrantes:
-  - Valentina Ospina Narvaez
-    vospinan@unal.edu.co
-  - Andrés Felipe Parra Naranjo
-    aparran@unal.edu.co
-  - Juan Pablo Pineda Lopera
-    jppinedal@unal.edu.co
-  - Juan Camilo Torres Arboleda
-    jutorresar@unal.edu.co
+  - Valentina Ospina Narvaez - vospinan@unal.edu.co
+  - Andrés Felipe Parra Naranjo - aparran@unal.edu.co
+  - Juan Camilo Torres Arboleda - jutorresar@unal.edu.co
+  - Juan Pablo Pineda Lopera - jppinedal@unal.edu.co
