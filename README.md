@@ -1,5 +1,57 @@
-# RNA_Grupo6
-Redes Neuronales y Algoritmos Bioinspirados. 2024-02
+# Redes Neuronales y Algoritmos Bioinspirados
+
+![logoUN](https://github.com/user-attachments/assets/6a75b35f-c2f7-425e-8a39-6d1384be3244)
+
+# Optimización Heurística
+
+## Descripción del Proyecto
+Este proyecto explora y compara diferentes métodos de optimización, tanto tradicionales como heurísticos, abordando dos tipos de problemas principales:
+
+### Objetivos
+1. Analizar el rendimiento de diferentes métodos de optimización
+2. Comparar métodos tradicionales vs heurísticos
+3. Evaluar el impacto de la dimensionalidad en los algoritmos
+
+## 1. Optimización Numérica
+Implementación de optimización para dos funciones de prueba:
+- Función de Rosenbrock (función del valle)
+- Función de Rastrigin (función multimodal)
+
+### Métodos Utilizados
+1. **Método Tradicional**
+   - Descenso por Gradiente
+
+2. **Métodos Heurísticos**
+   - Algoritmos Evolutivos
+   - Optimización por Enjambre de Partículas
+   - Evolución Diferencial
+
+## 2. Optimización Combinatoria
+Solución al problema del vendedor viajero (TSP) para las 32 capitales de México.
+
+### Métodos Utilizados
+- Algoritmo de Colonia de Hormigas
+- Algoritmo Genético
+
+### Factores Considerados
+- Tiempo de trabajo del vendedor
+- Consumo de combustible
+- Costos de peajes
+- Distancia total del recorrido
+
+## Conclusiones Generales
+
+### Métodos Heurísticos
+- No dependen del cálculo del gradiente
+- Son menos propensos a quedar atrapados en mínimos locales
+- Mostraron mejor rendimiento general en ambas funciones
+
+### Método de Descenso por Gradiente
+- La calidad del resultado depende en gran medida del punto de partida
+- Tiende a quedar atrapado en mínimos locales
+- Aprovecha la información del gradiente para dirigir la búsqueda
+- Eficiente cuando la solución inicial está cerca del óptimo global
+
 
 ## Integrantes:
   - Valentina Ospina Narvaez
