@@ -4,10 +4,10 @@
 
 Semestre 2024-2S
 
+# Optimización Heurística
+
 > [!NOTE]  
 > [Enlace al informe completo](https://candy-monkey-1cd.notion.site/Redes-Neuronales-y-Algoritmos-Bioinspirados-Optimizaci-n-Heur-stica-1897a8b98a19807ca935c1f93c771812)
-
-# Optimización Heurística
 
 ## Descripción
 En este proyecto buscamos comparar diferentes métodos de optimización, tanto tradicionales como heurísticos, se abordan dos tipos de problemas principales:
